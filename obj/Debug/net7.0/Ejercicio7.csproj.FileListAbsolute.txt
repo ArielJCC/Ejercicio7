@@ -1,0 +1,15 @@
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\bin\Debug\net7.0\Ejercicio7.exe
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\bin\Debug\net7.0\Ejercicio7.deps.json
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\bin\Debug\net7.0\Ejercicio7.runtimeconfig.json
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\bin\Debug\net7.0\Ejercicio7.dll
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\bin\Debug\net7.0\Ejercicio7.pdb
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\obj\Debug\net7.0\Ejercicio7.csproj.AssemblyReference.cache
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\obj\Debug\net7.0\Ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\obj\Debug\net7.0\Ejercicio7.AssemblyInfoInputs.cache
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\obj\Debug\net7.0\Ejercicio7.AssemblyInfo.cs
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\obj\Debug\net7.0\Ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\obj\Debug\net7.0\Ejercicio7.dll
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\obj\Debug\net7.0\refint\Ejercicio7.dll
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\obj\Debug\net7.0\Ejercicio7.pdb
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\obj\Debug\net7.0\Ejercicio7.genruntimeconfig.cache
+C:\Users\Rexx\Desktop\Tarea 1 POO\Ejercicio7\obj\Debug\net7.0\ref\Ejercicio7.dll
